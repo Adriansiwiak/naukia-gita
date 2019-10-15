@@ -1,2 +1,2 @@
 autoprefixer-cli -o main.prefixed.css css/style.css
-npm install -D nu-html-checker
+nu-html-checker --formatter .html
